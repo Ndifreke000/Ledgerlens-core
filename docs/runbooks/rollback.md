@@ -147,3 +147,4 @@ against a real cluster is the one verification item in the issue that
 requires the maintainer's own infrastructure to complete; this document is
 written so that completing it is a matter of following the checklist
 above, not designing a procedure from scratch.
+# rehearsal: rapid-succession push B (2026-08-29T23:27:00Z)
